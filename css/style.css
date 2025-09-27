@@ -3,14 +3,14 @@
 /* ============================= */
 
 body {
-    color: #666666;
+    color: #666666; /* 裡面的文字 */
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
     background: #ffffff;
 }
 
-a {
-    color: #AF9483;
+a {      
+    color: #AF9483; /* 個人優勢的粗體字 */
     transition: 0.5s;
 }
 
@@ -81,7 +81,7 @@ h6 {
     width: 100%;
     height: 100%;
     left: 0;
-    top: 0;
+    top: 0;      /* 主頁的背景圖更改處 */
     background: url(../img/cat.png) left top repeat;
     background-size: cover;
     filter: blur(8px);
@@ -133,7 +133,7 @@ h6 {
 /* ============================= */
 
 .header {
-    background: #AF9483;
+    background: #96b3db;
     height: 70px;
 }
 
@@ -939,8 +939,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 /* ------ Testimonials CSS ----- */
 /* ============================= */
 
-.testimonials {
-    background: url("../img/testimonial-bg.jpg") center top no-repeat fixed;
+.testimonials {       /* 中間的背景圖 */
+    background: url("../img/花海中_蹲著.jpg") center top no-repeat fixed;
     background-size: cover;
     padding: 40px 0 60px 0;
     text-align: center;
