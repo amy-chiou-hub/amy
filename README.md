@@ -6,7 +6,9 @@
 - [個人網站](https://amy-chiou-hub.github.io/amy/)
 
 ## 作業 2
-- [React](http://localhost:8081/)
+- [解說影片 15 分鐘](http://localhost:8081/)
+- index.html:[純靜態排版更動...]()
+- AItest.tsx:[我更動了......]()
 ## 作業 3
 
 ## 作業 4
