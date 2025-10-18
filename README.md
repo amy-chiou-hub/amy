@@ -7,7 +7,10 @@
 
 ## 作業 2
 - [解說影片](https://youtu.be/uMUiSdXXv58)
-- AItest.tsx：[我更動了......]()
+- [AItest.tsx](https://github.com/amy-chiou-hub/amy/blob/main/AItest.tsx)：
+    1. 網頁畫面更動：將對話框一至中間以及改顏色
+    2. 增加檔案上傳功能
 ## 作業 3
+- [解說影片]()
 
 ## 作業 4
