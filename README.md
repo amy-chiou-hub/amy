@@ -12,5 +12,8 @@
     2. 增加檔案上傳功能
 ## 作業 3
 - [解說影片]()
+- [AItest.js](https://github.com/amy-chiou-hub/amy/blob/main/my-app-2/src/AItest.js)
+    1. 換成使用GitHub API 取得 GitHub 上面的公開資料庫
+    2. 畫面更動 -> 一頁顯示6格資料有翻頁功能
 
 ## 作業 4
