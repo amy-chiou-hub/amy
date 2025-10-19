@@ -11,7 +11,7 @@
     1. 網頁畫面更動：將對話框一至中間以及改顏色
     2. 增加檔案上傳功能
 ## 作業 3
-- [解說影片]()
+- [解說影片](https://youtu.be/4-I18_DiCDk)
 - [AItest.js](https://github.com/amy-chiou-hub/amy/blob/main/my-app-2/src/AItest.js)
     1. 換成使用GitHub API 取得 GitHub 上面的公開資料庫
     2. 畫面更動 -> 一頁顯示6格資料有翻頁功能
