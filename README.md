@@ -11,6 +11,7 @@
     1. 網頁畫面更動：將對話框一至中間以及改顏色
     2. 增加檔案上傳功能
 ## 作業 3
+我寫錯地方!!!! 請到 my-app-2
 - [解說影片](https://youtu.be/4-I18_DiCDk)
 - [AItest.js](https://github.com/amy-chiou-hub/amy/blob/main/my-app-2/src/AItest.js)
     1. 換成使用GitHub API 取得 GitHub 上面的公開資料庫
