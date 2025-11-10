@@ -16,4 +16,4 @@
 
 
 ## 作業 4 小組專題
-- [專題](https://github.com/amy-chiou-hub/-)
+- [專題](https://github.com/become-master-of-traveling/GOGOTRAVEL/tree/main)
